@@ -3,7 +3,7 @@ Ejemplo de cómo trabajar con DataFrames similar a Pandas (python) en Kotlin.
 
 [![Kotlin](https://img.shields.io/badge/Code-Kotlin-blueviolet)](https://kotlinlang.org/)
 [![LICENSE](https://img.shields.io/badge/Lisence-CC-%23e64545)](https://joseluisgs.github.io/docs/license/)
-![GitHub](https://img.shields.io/github/last-commit/joseluisgs/Kotlin-DataFrame-Pandas )
+![GitHub](https://img.shields.io/github/last-commit/joseluisgs/Kotlin-DataFrame-Pandas)
 
 <p align="center">
   <a href="https://joseluisgs.github.io/" target="_blank"><img src="https://blog.jetbrains.com/wp-content/uploads/2022/06/Kotlin-Dataframe-Preview_Blog-Twitter.png" 
