@@ -1,4 +1,4 @@
-# Kotlin DataFrames Panda
+# Kotlin DataFrames Pandas
 Ejemplo de cómo trabajar con DataFrames similar a Pandas (python) en Kotlin.
 
 [![Kotlin](https://img.shields.io/badge/Code-Kotlin-blueviolet)](https://kotlinlang.org/)
@@ -10,7 +10,7 @@ Ejemplo de cómo trabajar con DataFrames similar a Pandas (python) en Kotlin.
   width='600px' borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'></a>
 </p>
 
-- [Kotlin DataFrames Panda](#kotlin-dataframes-panda)
+- [Kotlin DataFrames Pandas](#kotlin-dataframes-pandas)
   - [Acerca de](#acerca-de)
   - [Licencia](#licencia)
   - [Autor](#autor)
