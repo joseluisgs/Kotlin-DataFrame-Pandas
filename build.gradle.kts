@@ -13,6 +13,8 @@ repositories {
 
 dependencies {
     testImplementation(kotlin("test"))
+    // Instalamos la librería
+    implementation("com.github.holgerbrandl:krangl:0.18.1")
 }
 
 tasks.test {
