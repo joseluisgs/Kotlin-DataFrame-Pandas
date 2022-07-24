@@ -8,14 +8,14 @@ fun main() {
     println("Hola Krangl !! (y de paso Pandas!!!)")
 
     // Ejemplo de Tenistas y Raquetas
-    ejemploRaquetasTenistas()
+    ejemploRaquetasTenistasKrangl()
     // Ejemplo de Almacén
-    ejemploAlmacen()
+    ejemploAlmacenKrangl()
     // Ejemplo Pokemon desde Internet
-    ejemploRickyMorty()
+    ejemploRickyMortyKrangl()
 }
 
-fun ejemploRickyMorty() {
+fun ejemploRickyMortyKrangl() {
     // Podemos consultar la lista de personajes de Rick y Morty nos traemos 800 personajes
     val personajes = (1..800).toList().joinToString(",") { it.toString() }
     val data = DataFrame.fromJson("https://rickandmortyapi.com/api/character/$personajes")
@@ -47,7 +47,7 @@ fun ejemploRickyMorty() {
 
 }
 
-fun ejemploAlmacen() {
+fun ejemploAlmacenKrangl() {
     // Ejemplos con un CSV de datos  Abiertos de Madrid, con una columna de accidentesue lo hemos trabajado en clase
     val data = DataFrame.readCSV("data/products.csv")
 
@@ -86,7 +86,7 @@ fun ejemploAlmacen() {
         .print()
 }
 
-private fun ejemploRaquetasTenistas() {
+private fun ejemploRaquetasTenistasKrangl() {
     // Leemos el fichero de entrada
     val raquetasData = DataFrame.readCSV("data/raquetas.csv")
     // Imprimimos el DataFrame

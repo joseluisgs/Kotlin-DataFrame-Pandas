@@ -17,7 +17,7 @@ dependencies {
     testImplementation(kotlin("test"))
     // DataFrames de Kotlin Jetbrains
     implementation("org.jetbrains.kotlinx:dataframe:0.8.1")
-    implementation("org.jetbrains.kotlinx:dataframe-core:0.8.1")
+    // implementation("org.jetbrains.kotlinx:dataframe-core:0.8.1")
 
     // Instalamos la librería Krangl
     implementation("com.github.holgerbrandl:krangl:0.18.1")
