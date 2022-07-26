@@ -21,6 +21,8 @@ Ejemplo de cómo trabajar con DataFrames similar a Pandas (python) en Kotlin.
 Este es un proyecto de cómo usar DataFrames en Kotlin y con ello tener la potencia de procesar datos de una manera similar a Pandas de Python.
 Usaremos dos librerías:
 - [DataFrame](https://github.com/Kotlin/dataframe)
+- [DataFrame](https://blog.jetbrains.com/kotlin/2022/06/kotlin-dataframe-library-preview/)
+- [DataFrame](https://kotlin.github.io/dataframe/overview.html)
 - [Krangl](http://holgerbrandl.github.io/krangl/)
 
 ## Autor
